@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/styles/dialogs
+END
+extend-data-preview-dialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1612/trunk/extensions/freebase/module/styles/dialogs/extend-data-preview-dialog.less
+END
+freebase-loading-dialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1625/trunk/extensions/freebase/module/styles/dialogs/freebase-loading-dialog.less
+END
+schema-alignment-dialog.less
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/styles/dialogs/schema-alignment-dialog.less
+END

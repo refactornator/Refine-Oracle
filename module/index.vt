@@ -1,0 +1,16 @@
+#*
+ * Access this page at the URL /extensions/oracle/
+ *#
+<html>
+  <head>
+    <title>Oracle Extension</title>
+  </head>
+  <body>
+    <h1>Oracle Extension v1.0</h1>
+    
+    <p>Export data from Google Refine to an Oracle table.
+    </p>
+    
+    <p>Created by William Lindner</p>
+  </body>
+</html>

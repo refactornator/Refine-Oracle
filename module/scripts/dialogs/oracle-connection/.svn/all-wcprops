@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/scripts/dialogs/schema-alignment
+END
+ui-link.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/scripts/dialogs/schema-alignment/ui-link.js
+END
+dialog.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/scripts/dialogs/schema-alignment/dialog.js
+END
+ui-node.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1628/trunk/extensions/freebase/module/scripts/dialogs/schema-alignment/ui-node.js
+END
+schema-alignment-dialog.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1687/trunk/extensions/freebase/module/scripts/dialogs/schema-alignment/schema-alignment-dialog.html
+END
