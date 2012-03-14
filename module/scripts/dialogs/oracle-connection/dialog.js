@@ -166,9 +166,9 @@ OracleConnectionDialog.prototype._reset = function(settings) {
 	for (i in theProject.columnModel.columns) {
 		var tableRow = '<tr>';
 		tableRow += '<td>' + theProject.columnModel.columns[i].name + '</td>';
-		tableRow += '<td><input type="text" name="oracleColumnName" onchange="OracleConnectionDialog._changeColumnName('+columnIndex+')" id="oracleColumnName'+i+'" value="' + OracleConnection._cleanName(theProject.columnModel.columns[i].name) + '"></input></td>';
+		tableRow += '<td><input type="text" name="oracleColumnName" onchange="OracleConnectionDialog._changeColumnName('+i+')" id="oracleColumnName'+i+'" value="' + OracleConnection._cleanName(theProject.columnModel.columns[i].name) + '"></input></td>';
 		tableRow += "<td> \
-		<select id='selectDatatype"+i+"' onchange='OracleConnectionDialog._changeColumnType("+columnIndex+")'> \
+		<select id='selectDatatype"+i+"' onchange='OracleConnectionDialog._changeColumnType("+i+")'> \
 		  <option value='varchar2'>Varchar2</option> \
 		  <option value='number'>Number</option> \
 		  <option value='clob'>Clob</option> \
